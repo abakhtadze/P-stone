@@ -1,0 +1,17 @@
+asset_class,asset,generator,fidelity_pass_rate,near_copy_share
+equity_index,DJI,bootstrap,1.0,0.7398888888888889
+equity_index,DJI,garch_fhs,0.7142857142857143,0.5081111111111111
+equity_index,DJI,random_walk,0.0,0.0
+equity_index,IBEX,bootstrap,1.0,0.7486666666666667
+equity_index,IBEX,garch_fhs,0.9523809523809523,0.2918888888888889
+equity_index,IBEX,random_walk,0.14285714285714285,0.0
+equity_index,NDX,bootstrap,1.0,0.7691111111111111
+equity_index,NDX,garch_fhs,0.7380952380952381,0.3591111111111111
+equity_index,NDX,random_walk,0.0,0.0
+fx,EURUSD,bootstrap,1.0,0.741
+fx,EURUSD,garch_fhs,0.8333333333333334,0.0047777777777777775
+fx,EURUSD,random_walk,0.09523809523809523,0.0
+stablecoin,USDC,bootstrap,0.775,0.3725
+stablecoin,USDC,garch_fhs,0.35,0.0013333333333333333
+stablecoin,USDC,peg_ar1,0.35,0.4335
+stablecoin,USDC,random_walk,0.0,0.0
